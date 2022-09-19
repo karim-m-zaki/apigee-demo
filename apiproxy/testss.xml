@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="testss">
+<APIProxy revision="2" name="testss">
     <Basepaths>/testss</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1606133858001</CreatedAt>
+    <CreatedAt>1663626573765</CreatedAt>
     <CreatedBy>karim.zaki1985@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>testss</DisplayName>
-    <LastModifiedAt>1647776207628</LastModifiedAt>
+    <LastModifiedAt>1663626573765</LastModifiedAt>
     <LastModifiedBy>karim.zaki1985@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:0227e5dbcf1b47ec826619359e7e9c04aa004815704bd90cf84be4f37984dc22c7d768e44cbede29b287933b544b45df41ff3e0644ce9904b091fcd41df6a958:eu-west-1</ManifestVersion>
+    <ManifestVersion>SHA-512:d30824d2ab5e191423d6f3fa5194268ce2846e4f162ae036c97b738d9238367b186cc25c9acb85fff14783c99b4ade63f6bb255b728d56346b1a59ec67589c55</ManifestVersion>
     <Policies>
         <Policy>Assign-Message-1</Policy>
         <Policy>Extract-Variables-1</Policy>

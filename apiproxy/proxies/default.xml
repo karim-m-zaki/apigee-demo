@@ -2,12 +2,12 @@
 <ProxyEndpoint name="default">
     <PreFlow name="PreFlow">
         <Request>
-            <!--<Step>-->
-            <!--    <Name>Extract-Variables-1</Name>-->
-            <!--</Step>-->
-            <!--<Step>-->
-            <!--    <Name>Assign-Message-1</Name>-->
-            <!--</Step>-->
+            <Step>
+                <Name>Extract-Variables-1</Name>
+            </Step>
+            <Step>
+                <Name>Assign-Message-1</Name>
+            </Step>
             <Step>
                 <Name>JavaScript-1</Name>
             </Step>
