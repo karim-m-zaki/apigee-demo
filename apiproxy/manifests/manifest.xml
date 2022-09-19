@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:dc8260fad8754caf1969b70bd6d6aee406a2acb9447c3c8db6d88aff859a0bb7a6ca0481ead4d7f14624819cc4726fd1c9ab80162baa5135ada0f86ad4b07010"/>
+        <VersionInfo resourceName="Extract-Variables-1" version="SHA-512:62a070d4d6a6f9903bdfe9e2d699eeee97e21a1463afccc20806783d8c8c6df503470d1c0a01eb97891b8b9f0971a9814bbe4eabe0e94a4ebf0b34329da361f6"/>
+        <VersionInfo resourceName="JavaScript-1" version="SHA-512:9cd0774e40ba79e8df119810f75f80dd0ed28206ea2135a4ffda48097307638dd97252dc95ca8b61690aea33b144e92b4ec2570ec6ce7cebd85caba7f666b08f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a119822cb9b95c78343cd27da053e63363fb8955c2198db39d7c839c4bfd6e6961114a4b81b99add67b217c888591ac1de05825c32d9b4af651d68ed6513481d"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://Script-1.js" version="SHA-512:8fdad12a2c7f1c9dfc6e03cb2ea5d2f67e8ad6f8eea2d4c0f96a82e5d98a3ee760887275528b3caf1c1201e6e76d2c724e69bff8e837afe57445feff4d90bbe5"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="TargetEndpoint-1" version="SHA-512:0c3a4486cf9522e24f4a869f99ab3ea64644d279d5aebec22afe58c96d61d5c7e9b005a3889a7ef46f8340651e69a06ec6985fb30b9a53879f5821a116a2eca8"/>
+    </TargetEndpoints>
+</Manifest>

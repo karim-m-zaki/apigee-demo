@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="testss">
+    <Basepaths>/testss</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1606133858001</CreatedAt>
+    <CreatedBy>karim.zaki1985@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>testss</DisplayName>
+    <LastModifiedAt>1647776207628</LastModifiedAt>
+    <LastModifiedBy>karim.zaki1985@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0227e5dbcf1b47ec826619359e7e9c04aa004815704bd90cf84be4f37984dc22c7d768e44cbede29b287933b544b45df41ff3e0644ce9904b091fcd41df6a958:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Extract-Variables-1</Policy>
+        <Policy>JavaScript-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://Script-1.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>TargetEndpoint-1</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
